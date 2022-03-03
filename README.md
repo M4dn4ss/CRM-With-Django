@@ -1,2 +1,3 @@
 # CRM-With-Django!
-MAIN PAGE(https://user-images.githubusercontent.com/59058927/156536105-ec14737c-fbf1-4697-b6ba-ca93c9d88b32.png)
+
+![Main Page](https://user-images.githubusercontent.com/59058927/156536409-96df81bb-cb45-4f99-ae0c-d2f528fc6fc8.png)
